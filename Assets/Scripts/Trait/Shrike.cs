@@ -5,7 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Shrike", menuName = "Trait/Shrike")]
 public class Shrike : Trait
 {
-    public override void InvokeTrait()
+    public override void AdjustTrait()
     {
         // 때까치 효과 발동
     }
