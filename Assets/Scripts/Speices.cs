@@ -16,7 +16,7 @@ public class Speices : ScriptableObject
         Reve,
     }
 
-    public enum moneyType
+    public enum MoneyType
     {
         Gold,
         ETC2,
@@ -25,5 +25,5 @@ public class Speices : ScriptableObject
     }
 
     public SpeciesType speciesType;
-    public moneyType money;
+    public MoneyType moneyType;
 }

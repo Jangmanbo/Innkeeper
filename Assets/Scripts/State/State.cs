@@ -15,4 +15,9 @@ public class State : ScriptableObject
     {
         // ÀÇ·Ú »ýÁ¸·ü Á¶Á¤
     }
+
+    public float GetCommissionSuccessRate()
+    {
+        return commissionSuccessRate;
+    }
 }

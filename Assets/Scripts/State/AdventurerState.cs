@@ -31,4 +31,14 @@ public class AdventurerState : State
         // 개인 생존율 조정
         // 파티 생존율 조정
     }
+
+    public float GetPersonalServivalRate()
+    {
+        return personalServivalRate;
+    }
+
+    public float GetPartyServivalRate()
+    {
+        return partyServivalRate;
+    }
 }
