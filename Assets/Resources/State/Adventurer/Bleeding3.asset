@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4449a06cbf773284caa6ffaa866eecc1, type: 3}
   m_Name: Bleeding3
   m_EditorClassIdentifier: 
-  stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
-  personalServivalRate: 0
+  stateName: "\uACFC\uB2E4\uCD9C\uD608"
+  explanation: "\uC815\uB9D0 \uCC98\uCC38\uD558\uAD70. \uBD95\uB300\uAC00 \uBAA8\uC790\uB77C\uACA0\uB294\uAC78."
+  commissionSuccessRate: -0.4
+  stateType: 1
+  personalServivalRate: -0.05
   partyServivalRate: 0

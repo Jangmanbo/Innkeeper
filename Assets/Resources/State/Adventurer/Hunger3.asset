@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4449a06cbf773284caa6ffaa866eecc1, type: 3}
   m_Name: Hunger3
   m_EditorClassIdentifier: 
+  stateName: "\uAD76\uC8FC\uB9BC"
+  explanation: "\uC815\uB9D0 \uBF08\uBC16\uC5D0 \uC548\uB0A8\uC558\uAD70. \uBB34\uAE30\uB294
+    \uB4E4 \uC218 \uC788\uACA0\uB294\uAC00 \uBAA8\uD5D8\uAC00"
+  commissionSuccessRate: -0.15
   stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
-  personalServivalRate: 0
+  personalServivalRate: -0.1
   partyServivalRate: 0

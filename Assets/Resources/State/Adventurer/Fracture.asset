@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31771a6ebb711dc41a98b712a4c60171, type: 3}
   m_Name: Fracture
   m_EditorClassIdentifier: 
-  stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
+  stateName: "\uACE8\uC808"
+  explanation: "\uACE8\uC808 \uC124\uBA85\uBB38"
+  commissionSuccessRate: -0.1
+  stateType: 7
   personalServivalRate: 0
   partyServivalRate: 0

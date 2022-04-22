@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4449a06cbf773284caa6ffaa866eecc1, type: 3}
   m_Name: Illness2
   m_EditorClassIdentifier: 
-  stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
-  personalServivalRate: 0
+  stateName: "\uC911\uC99D"
+  explanation: "\uC911\uC99D \uC124\uBA85\uBB38"
+  commissionSuccessRate: -0.2
+  stateType: 6
+  personalServivalRate: -0.05
   partyServivalRate: 0

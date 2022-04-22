@@ -12,9 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 158242942b1c2a74a861b01f326cb292, type: 3}
   m_Name: Druck
   m_EditorClassIdentifier: 
-  stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
+  stateName: "\uCDE8\uD568"
+  explanation: "\uC9C4\uC815\uD55C \uBAA8\uD5D8\uAC00\uB4E4\uC5D0\uAC8C \uC220\uB530\uC704\uB294
+    \uBB38\uC81C\uAC00 \uC548\uB41C\uB2E4\uC9C0\u2026\uC7A0\uAE50 \uC790\uB124\uB3C4
+    \uD55C\uC794 \uD560\uD150\uAC00?"
+  commissionSuccessRate: -0.05
+  stateType: 7
   personalServivalRate: 0
   partyServivalRate: 0

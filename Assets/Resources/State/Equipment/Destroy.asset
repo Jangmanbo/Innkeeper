@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a453968d13e6bb4493b98dd9dc66959, type: 3}
   m_Name: Destroy
   m_EditorClassIdentifier: 
-  stateName: 
+  stateName: "\uD30C\uAD34\uB428"
   explanation: 
-  commissionSuccessRate: 0
+  commissionSuccessRate: -0.15

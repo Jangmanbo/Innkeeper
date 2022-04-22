@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b131c125ce9654b4ea566046c52f997d, type: 3}
   m_Name: Thief
   m_EditorClassIdentifier: 
-  professionType: 0
+  professionType: 1

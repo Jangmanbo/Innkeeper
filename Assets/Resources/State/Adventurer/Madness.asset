@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f6808f2a1b632f449b1352e8000d286, type: 3}
   m_Name: Madness
   m_EditorClassIdentifier: 
-  stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
+  stateName: "\uAD11\uAE30"
+  explanation: "\uAD11\uAE30 \uC124\uBA85\uBB38"
+  commissionSuccessRate: -0.2
+  stateType: 7
   personalServivalRate: 0
   partyServivalRate: 0

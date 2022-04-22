@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a563cfebde082064c8f1926385c4881b, type: 3}
   m_Name: Infection
   m_EditorClassIdentifier: 
-  stateType: 0
-  stateName: 
-  explanation: 
-  commissionSuccessRate: 0
+  stateName: "\uAC10\uC5FC"
+  explanation: "\uAC10\uC5FC \uC124\uBA85\uBB38"
+  commissionSuccessRate: -0.2
+  stateType: 7
   personalServivalRate: 0
   partyServivalRate: 0

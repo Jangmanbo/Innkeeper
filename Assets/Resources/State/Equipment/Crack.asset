@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a453968d13e6bb4493b98dd9dc66959, type: 3}
   m_Name: Crack
   m_EditorClassIdentifier: 
-  stateName: 
+  stateName: "\uAE08\uAC10"
   explanation: 
-  commissionSuccessRate: 0
+  commissionSuccessRate: -0.1
